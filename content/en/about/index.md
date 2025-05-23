@@ -5,7 +5,7 @@ menu: {main: {weight: 20}} # Assumes "About Us" is the second item in your main 
 description: "Your trusted local IT partner in Wabash County, specializing in solutions for restaurants and small businesses."
 ---
 
-{{% blocks/cover title="Your Local Wabash IT Partner" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover title="Your Local Wabash IT Partner" image=/static/images/logo.png image_anchor="bottom" height="auto" %}}
 
 Haist IT Consulting: Dedicated technology solutions for the vibrant restaurants and small businesses of Wabash County.
 {.mt-5}
